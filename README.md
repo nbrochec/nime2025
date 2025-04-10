@@ -48,10 +48,10 @@ conda activate nime2025
 
 ### 3. Run the notebook
 
-Open `nime2025.ipynb` in Jupyter and run all cells sequentially. It will guide you through:
+Open `nime2025.ipynb` in Jupyter and run all cells sequentially. It will guide you through: 
 
 - Installing required Python packages
-- Splitting data and generating dataset
+- Generating dataset
 - Performing preprocessing and augmentation
 - Training the model and evaluating it
 - Exporting a TorchScript `.ts` model for real-time usage
