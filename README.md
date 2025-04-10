@@ -51,17 +51,16 @@ conda activate nime2025
 Open `nime2025.ipynb` in Jupyter and run all cells sequentially. It will guide you through:
 
 - Installing required Python packages
-- Verifying dataset structure
-- Splitting data and performing preprocessing
+- Splitting data and generating dataset
+- Performing preprocessing and augmentation
 - Training the model and evaluating it
 - Exporting a TorchScript `.ts` model for real-time usage
 
-## 🎛️ Real-time Deployment in Max
+## 🎛️ Real-time Usage in Max
 
-For real-time use in Max, check our external object available here:  
-👉 [ipt_tilde](https://github.com/nbrochec/ipt_tilde)
+For real-time use in Max, check our other repository 👉 [ipt_tilde](https://github.com/nbrochec/ipt_tilde)
 
-This repository provides the code necessary to compile a Max object capable of loading `.ts` models exported from the jupyter notebook `nime2025.ipynb`.
+This repository provides the code necessary to compile a Max external object to run `.ts` models exported via our the jupyter notebook in Max.
 
 ## 🧠 About
 
