@@ -50,7 +50,6 @@ conda activate nime2025
 
 Open `nime2025.ipynb` in Jupyter and run all cells sequentially. It will guide you through:
 
-The notebook automates all steps, including:
 - Installing required Python packages
 - Verifying dataset structure
 - Splitting data and performing preprocessing
