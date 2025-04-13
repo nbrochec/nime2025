@@ -14,7 +14,7 @@ nime2025/
 ├── augments.py              # Data augmentation definitions
 ├── externals/               # Batch sampler implementation
 ├── model/                   # Model definitions
-├── results/          			 # Folder for NIME2025 .ts model and training results
+├── results/                 # Folder for NIME2025 .ts model and training results
 ├── utils.py                 # Dataset management, audio processing, and training functions
 ├── nime2025.ipynb           # Main notebook
 └── requirements.txt         # Project dependencies
