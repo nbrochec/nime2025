@@ -24,7 +24,7 @@ nime2025/
 
 ### 1. Download and prepare the dataset
 
-Download the EG-IPT dataset from [here](to be completed).  
+Download the EG-IPT dataset from [here](https://doi.org/10.5281/zenodo.15205644).  
 Once downloaded, extract it and place the contents `data/raw/` directory of this repository.
 
 Make sure path point to correct location of the dataset.
