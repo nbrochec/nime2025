@@ -1,0 +1,15 @@
+,behind-nut,bend,bottleneck,glissando,legato,muted,palmstrike,scratch,snap-pizz,staccato,sustained,tremolo,trill,vibrato
+behind-nut,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+bend,0,329,0,0,4,0,0,0,0,0,0,0,0,0
+bottleneck,0,0,57,0,0,0,0,0,0,0,0,0,0,0
+glissando,0,0,0,131,0,0,0,0,1,0,0,0,0,0
+legato,0,8,0,0,1672,0,0,0,0,0,0,0,0,0
+muted,0,0,0,0,0,137,0,0,1,0,0,0,0,0
+palmstrike,0,1,0,0,0,0,143,0,0,0,1,0,0,0
+scratch,0,0,0,0,0,1,0,154,3,0,0,3,4,0
+snap-pizz,0,0,0,0,0,0,0,0,138,0,0,0,0,0
+staccato,0,0,0,3,0,0,0,0,10,154,0,0,0,0
+sustained,0,131,0,0,0,0,2,0,0,0,1912,0,0,2
+tremolo,0,0,32,0,0,0,0,0,0,0,0,252,128,2
+trill,0,0,0,0,0,0,0,1,7,0,0,0,324,0
+vibrato,0,47,0,0,5,0,0,2,0,0,4,0,0,614

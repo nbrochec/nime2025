@@ -1,0 +1,11 @@
+,bend,glissando,legato,muted,palmstrike,staccato,sustained,tremolo,trill,vibrato
+bend,220,0,2,0,0,0,7,0,0,57
+glissando,1,97,3,0,0,4,0,1,0,0
+legato,326,0,1002,0,0,1,2,0,0,0
+muted,0,0,0,59,0,52,0,0,0,0
+palmstrike,0,0,0,0,119,0,3,0,0,0
+staccato,1,1,0,2,0,219,0,0,0,0
+sustained,78,0,0,11,95,2,1399,0,0,0
+tremolo,0,0,0,0,0,0,2,317,13,1
+trill,9,33,5,0,0,0,0,0,219,0
+vibrato,115,0,2,0,0,0,1,0,0,377
