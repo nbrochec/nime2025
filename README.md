@@ -13,7 +13,7 @@ nime2025/
 │   └── dataset/             # Store dataset csv files
 ├── augments.py              # Data augmentation definitions
 ├── externals/               # Batch sampler implementation
-├── model.py/                # Model definitions
+├── model.py                 # Model definitions
 ├── results/                 # Folder for NIME2025 .ts model and training results
 ├── utils.py                 # Dataset management, audio processing, and training functions
 ├── nime2025.ipynb           # Main notebook
@@ -71,7 +71,7 @@ If you use this work in your paper, please consider citing the following:
 ```bibtex
 @inproceedings{fiorini2025egipt,
   title={Introducing EG-IPT and ipt~: a novel electric guitar dataset and a new Max/MSP object for real-time classification of instrumental playing techniques},
-  author={Fiorini, Marco, and Brochec, Nicolas and Borg, Joakim and Pasini, Riccardo},
+  author={Fiorini, Marco and Brochec, Nicolas and Borg, Joakim and Pasini, Riccardo},
   booktitle={NIME 2025},
   year={2025},
   address={Canberra, Australia}
