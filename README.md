@@ -13,7 +13,7 @@ nime2025/
 │   └── dataset/             # Store dataset csv files
 ├── augments.py              # Data augmentation definitions
 ├── externals/               # Batch sampler implementation
-├── model/                   # Model definitions
+├── model.py/                # Model definitions
 ├── results/                 # Folder for NIME2025 .ts model and training results
 ├── utils.py                 # Dataset management, audio processing, and training functions
 ├── nime2025.ipynb           # Main notebook
