@@ -30,7 +30,7 @@ Once downloaded, extract it and place the contents `data/raw/` directory of this
 Make sure path point to correct location of the dataset.
 The directory structure should look like this:
 ```
-data/raw/EG-IPT/pickups/
+data/raw/EG-IPT/
 ├── HB-neck/
 ├── HB-bridge/
 └── HB-couple/
